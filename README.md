@@ -15,7 +15,7 @@ This repository serves as a modular learning lab. Instead of isolated code snipp
 | Module | Core Topic | Key Concepts | Status |
 | :--- | :--- | :--- | :--- |
 | **`01-basic-react`** | Foundations & Anatomy | Vite setup, JSX transpilation, PascalCase rules, Fragments (`<>...</>`), Virtual DOM mount | Completed ✅ |
-| **`02-state-and-events`** | State Management | `useState`, snapshot mental model, functional state updates, batching | Upcoming ⏳ |
+| **`02-state-and-events`** | State Management | `useState`, snapshot mental model, functional state updates, batching | Completed ✅ |
 | **`03-side-effects-lifecycle`** | `useEffect` Deep Dive | Synchronization, dependency array traps, memory leak cleanup | Upcoming ⏳ |
 | **`04-dom-and-references`** | `useRef` & Persistent Values | Direct DOM access, mutable state without triggering re-renders | Upcoming ⏳ |
 | **`05-custom-hooks`** | Modular Logic Extraction | Decoupling business logic from JSX view layers | Upcoming ⏳ |
